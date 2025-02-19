@@ -1,4 +1,4 @@
-export const OWNER_NAME: string = `McKee`;
+export const OWNER_NAME: string = `Mark McKee's`;
 export const OWNER_DESCRIPTION: string = `A Soul on This Earth`;
 
 export const AI_NAME: string = `Joan of Mark`;
